@@ -1,0 +1,16 @@
+nav.navbar {
+  /* use important to override... */
+  background-color: #ea6817 ! important;
+}
+.card-title {
+  color: #ff8a2b
+}
+a.dropdown-item.active {
+  background-color: #ea6817
+}
+h4 {
+  color: #461866
+}
+.icon-link {
+  height: 200px;
+}

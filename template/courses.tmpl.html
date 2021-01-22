@@ -1,0 +1,22 @@
+<div id="<% print('c'+ year) %>" class="list-group mb-3">
+  <% _.each(classes, function (el, ind) { %>
+  <a href="<%= el.link %>" class="list-group-item list-group-item-action flex-column" target="_blank">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1"><%= el.name %></h5>
+      <% if (el.time.indexOf("ended") !== -1){ %>
+        <small class="text-danger"><%= el.time %></small>
+      <% } else { %>
+        <small><%= el.time %></small>
+      <% } %>
+    </div>
+    <p class="mb-1"><%= el.description %></p>
+    <small class="mb-1">level: <%= el.level %></small><br/>
+    <% for (i in el.tags) { var style; %>
+      <% if (el.tags[i]==="school") { %>
+      <%  style = "primary"; %>
+      <% } else if (el.tags[i]==="online") { style = "success"; }%>
+      <span class="badge badge-<%= style %>"><%= el.tags[i] %></span>
+    <% } %>
+  </a>
+  <% }); %>
+</div>

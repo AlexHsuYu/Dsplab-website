@@ -1,0 +1,51 @@
+[
+  {
+    "state": "graduated",
+    "members": [
+      {"name": "尹泰傑", "date": "2017", "thesis": "基於RSSI與模糊決策之室內定位的穿戴式裝置研製"},
+      {"name": "李家豪", "date": "2016", "thesis": "SOI探測器與Cross探測器的訊號處理研究"},
+      {"name": "吳重毅", "date": "2016", "thesis": "開發適用於穿透式游離腔之空氣克馬面積乘積計讀儀"},
+      {"name": "楊義強", "date": "2015", "thesis": "利用穩定因子方法基於Wi-Fi平台與RSSI資訊實作多干擾物體的室內定位"},
+      {"name": "陳彥諭", "date": "2014", "thesis": "結合雲端題庫系統的全自動化閱卷平台開發"},
+      {"name": "許淋淳(共同指導)", "date": "2013", "thesis": "簡易自動化天線量測系統"},
+      {"name": "粘景茗", "date": "2012", "thesis": "雲端題庫的機器視覺閱卷服務建置"},
+      {"name": "李勁吾", "date": "2009", "thesis": "基於光刺激發光技術用於Al2O3:C材料之劑量消光研究"},
+      {"name": "鄭景元", "date": "2009", "thesis": "以動力學與競爭模型模擬光刺激發光的性質"}
+    ]
+  },{
+    "state": "master",
+    "members": [
+      {
+        "name": "123家瀅",
+        "photo": "image/girl.png",
+        "expertise": [
+          "radar imaging",
+          "MSL component design"
+        ],
+        "link": {
+          "website": "web.ncyu.edu.tw/~chiwen/bigcat.html"
+        }
+      },{
+        "name": "李孝蕙(Big Cat)",
+        "photo": "image/girl.png",
+        "expertise": [
+          "medical image processing",
+          "Level Set algorithm"
+        ],
+        "link": {
+          "website": "web.ncyu.edu.tw/~chiwen/bigcat.html"
+        }
+      },{
+        "name": "廖羿翔(Michael Liao)",
+        "photo": "image/boy.png",
+        "expertise": [
+          "IoT system",
+          "Optimization algorithms"
+        ],
+        "link": {
+          "website": "web.ncyu.edu.tw/~chiwen/michael.html"
+        }
+      }
+    ]
+  }
+]

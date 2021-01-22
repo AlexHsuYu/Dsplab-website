@@ -1,0 +1,537 @@
+[
+  {
+    "year": 2001,
+    "publications": [
+      {
+        "title": "Automatic bone age estimation based on carpal bone images—a preliminary report",
+        "author": "BC Fan, CW Hsieh, TL Jong, CM Tiu",
+        "volume": "Chinese Medical Journal, pp.203-208, vol.64, 2001",
+        "link": ""
+      }
+    ],
+    "conferences":[],
+    "patents":[]
+  },{
+    "year": 2003,
+    "publications": [
+      {
+        "title": "Investigation of ART2-based audio-to-visual conversion for multimedia applications",
+        "author": "JJ Lin, CW Hsieh, TL Jong",
+        "volume": "Lecture notes in computer science 2690: 1066-1070 2003",
+        "link": ""
+      }
+    ],
+    "conferences": [
+      {
+        "title": "The Phalanges Ossified Process Enhancement and Assessment for Bone Age Estimation",
+        "author": "CW Hsieh, CH Chang, TL Jong, CM Tiu",
+        "volume": "World Congress on Medical Physics and Biomedical Engineering 2003, Sydney, Australia, August, 2003",
+        "link": ""
+      },{
+        "title": "The phalangeal morphological characteristics for bone age recognition",
+        "author": "CW Hsieh, TL Jong, CM Tiu",
+        "volume": "13th IEEE-NPSS Real time conference 2003, Montreal, Canada, May, 2003, RT085",
+        "link": ""
+      },{
+        "title": "Investigation of ART2-Based Audio-to-Visual Conversion for Multimedia Applications",
+        "author": "JJ Lin, CW Hsieh, TL Jong",
+        "volume": "4th International Conference on intelligent data engineering and automatic learning (IDEAL ‘03), Hong Kong, pp. 1066-1070, March, 2003",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2005,
+    "publications": [],
+    "conferences": [
+      {
+        "title": "The Motion Analysis of Closed Eyes Using Support Vector Machine Neural Network",
+        "author": "CW Hsieh*, CW Kan, TL Jong, TL Chen",
+        "volume": "12th International Conference on Biomedical Engineering (ICBME 2005), 2B2-11, Singapore, Singapore, Dec., 2005",
+        "link": ""
+      },{
+        "title": "Bone Age Classification Using Fuzzy Concept with Support Vector Machine Neural Network",
+        "author": "<strong>(this paper won the \"Outstanding Paper Award\")</strong><br/>CW Hsieh*, BC Chu, TL Jong, CM Tiu",
+        "volume": "12th International Conference on BioMedical Engineering (ICBME 2005), 1A4-05, Singapore, Singapore, Dec., 2005",
+        "link": ""
+      },{
+        "title": "Comb-shaped Dipole Antenna on Transparent Substrate",
+        "author": "TL Chen, CW Hsieh",
+        "volume": "Conference of IEEE APS, Washington D.C. America, July, 2005. 3A: 610- 612",
+        "link": ""
+      },{
+        "title": "Micro-Calcification Clusters Location of Mammography by Self-Organizing Map of Neural Network Ranking",
+        "author": "CW Hsieh*, CW Kan, TL Jong, CM Tiu",
+        "volume": "Conference of IEEE_NPSS, Stockholm, Sweden, Jun, 2005",
+        "link": ""
+      }
+    ],
+    "patents": [
+      {
+        "title": "眼部活動監視裝置與系統",
+        "category": "發明",
+        "nationality": "Taiwan",
+        "number": "I231206",
+        "owners": "謝奇文、陳泰利、鐘太郎",
+        "date": "2005/09 - 2025/08",
+        "link": "https://patents.google.com/patent/US20050179865A1/en"
+      },{
+        "title": "車用透明天線",
+        "category": "新型",
+        "nationality": "Taiwan",
+        "number": "M271263",
+        "owners": "謝奇文、陳泰利、鐘太郎",
+        "date": "2005/07 - 2025/06",
+        "link": ""
+      },{
+        "title": "用於數位廣播系統之天線接收系統",
+        "category": "新型",
+        "nationality": "Taiwan",
+        "number": "M273089",
+        "owners": "謝奇文、陳泰利、鐘太郎",
+        "date": "2005/08 - 2025/08",
+        "link": ""
+      }
+    ]
+  },{
+    "year": 2006,
+    "publications": [],
+    "conferences": [
+      {
+        "title": "Carpal Ossified Process Using Pseudo-Force Model Description",
+        "author": "CW Hsieh*, TL Jong",
+        "volume": "The Japan-Taiwan Symposium on Simulation in Medicine. Dec., Tsukuba Japan, 2006",
+        "link": ""
+      },{
+        "title": "Quantitative Development of Mechanical Energy Concept of Physics Based on Markov Chains Observation",
+        "author": "CW Hsieh*, TC Liu",
+        "volume": "IV International Conference on Multimedia and Information and Communication Technologies in Education (m-ICTE2006), 22-25 November, Seville, Spain",
+        "link": ""
+      },{
+        "title": "Computerized Epiphysis Analysis Using Gabor Filter with Neural Network",
+        "author": "CW Hsieh*, TL Jong, CM Tiu",
+        "volume": "2nd International Symposium on Biomedical Engineering (ISBME2006), pp. 107-110, Nov., 2006, Bangkok, Thailand",
+        "link": ""
+      },{
+        "title": "Evaluation of Closed Eye Motion Monitoring by Wireless Communication",
+        "author": "CW Hsieh*, SH Wang, TL Jong",
+        "volume": "IFMBE proceedings Vol. 14, pp. 672-673, Seoul, Korea, Aug, 2006",
+        "link": ""
+      },{
+        "title": "Growth Evaluation Based on Morphological Description of Carpals",
+        "author": "CW Hsieh*, MJ Huang, TL Jong",
+        "volume": "IFMBE proceedings Vol. 14, pp. 2212-2214, Seoul, Korea, Aug, 2006. Book Chapter (From Springer), IFMBE Proceedings, 1, Volume 14, Part 15, Pages 2328-2330",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2007,
+    "publications": [
+      {
+        "title": "Bone age estimation based on phalanx information with fuzzy constrain of carpals",
+        "author": "CW Hsieh*, TL Jong, CM Tiu",
+        "volume": "Medical & Biological Engineering & Computing. 45(3):283-295, 2007",
+        "link": ""
+      },{
+        "title": "Analysis of closed eyes motion using a wireless eye-mask",
+        "author": "CW Hsieh*, CW Kan, TL Jong",
+        "volume": "Medical & Biological Engineering & Computing. 45(4):365-374, 2007",
+        "link": ""
+      },{
+        "title": "Computerized Carpal Bone Geometric Feature for Bone Age Estimation",
+        "author": "CW Hsieh, TL Jong, YH Chou, CM Tiu*",
+        "volume": "Chinese Medical Journal. 120(9) :767-770 2007",
+        "link": ""
+      }
+    ],
+    "conferences":[],
+    "patents":[
+      {
+        "title": "Eye activity monitoring apparatus and system",
+        "category": "",
+        "nationality": "US",
+        "number": "US7258441B2",
+        "owners": "謝奇文、陳泰利、鐘太郎",
+        "date": "2007/08 -",
+        "link": ""
+      }
+    ]
+  },{
+    "year": 2008,
+    "publications": [],
+    "conferences": [
+      {
+        "title": "A new examination method for Turner’s syndrome screening: Using phalanx combined with two stages linear regression",
+        "author": "CM Tiu, TC Liu, CW Hsieh*, DM Niu, JD Chen, TL Jong",
+        "volume": "AOCR2008, Oct., Seoul, Korea",
+        "link": ""
+      },{
+        "title": "The Prompt of Lip Shape Modification of Cacology Based on the Speech Evaluation Techniques – A Case of Basic Chinese Learning",
+        "author": "CW Hsieh*, CH Lin, TL Jong, CY Hsieh",
+        "volume": "ICALIP 2008, Jul., Shanghai, China",
+        "link": ""
+      },{
+        "title": "Carpal Growth Assessment Based on Fuzzy Description",
+        "author": "CW Hsieh*, TL Jong, CM Tiu",
+        "volume": "SMCia 2008, Jun., Muroran, Japan, 2008",
+        "link": ""
+      },{
+        "title": "Self Organizing Map Neural Network with Fuzzy Screening for Micro-calcifications Detection on Mammograms",
+        "author": "CM Tiu, TL Jong, CW Hsieh*",
+        "volume": "SMCia 2008, Jun., Muroran, Japan, 2008",
+        "link": ""
+      },{
+        "title": "The Study of the Relationship between Electro-oculogram and the Features of Closed Eye Motion",
+        "author": "CW Hsieh*, HS Chen, TL Jong",
+        "volume": "ITAB2008, May, Shenzhen, China, 2008",
+        "link": ""
+      },{
+        "title": "Turner’s Syndrome Screening Based on Computed Fuzzy Criterion",
+        "author": "CW Hsieh*, TC, Liu, TL Jong, CM Tiu",
+        "volume": "ITAB2008, May, Shenzhen, China, 2008",
+        "link": ""
+      }
+    ],
+    "patents": [
+      {
+        "title": "Method of automatically assessing skeletal age of hand radiographs",
+        "category": "",
+        "nationality": "US",
+        "number": "US7421104B2",
+        "owners": "Chi-Wen Hsieh, Tai-Lang Jong, Chi-Hsing Chang, Chui-Mei Tiu",
+        "date": "2008/09 -",
+        "link": ""
+      }
+    ]
+  },{
+    "year": 2009,
+    "publications": [
+      {
+        "title": "Turner syndrome phalangeal screening based on a two-stage linear regression concept",
+        "author": "CM Tiu, TC Liu, CW Hsieh, DM Niu, JD Chen, TL Jong*",
+        "volume": "Pediatr Int. 51(4):453-459, 2009",
+        "link": ""
+      }
+    ],
+    "conferences": [
+      {
+        "title": "Image Interpretations Based on Quantum Resonance Concept",
+        "author": "CW Hsieh, YC Hsu, TL Jong",
+        "volume": "MUE2009, pp.59-63, Third International Conference on Multimedia and Ubiquitous Engineering, 2009, China",
+        "link": ""
+      },{
+        "title": "Simulation on Optical Stimulated Luminescence Based on Two competition Trap Model",
+        "author": "CW Hsieh, JW Li, TL Jong, KB Chen",
+        "volume": "ICBBE 2009, Beijing, China",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2010,
+    "publications": [
+      {
+        "title": "A fuzzy-based growth model with principle component analysis selection for carpal bone-age assessment",
+        "author": "CW Hsieh*, TC Liu, TL Jong, CM Tiu",
+        "volume": "Med Biol Eng Comput. 48(6):579-588, 2010",
+        "link": ""
+      },{
+        "title": "Wideband Series-fed Dipole Antenna with Balun Integrated",
+        "author": "SC Lin, TL Jong, CW Hsieh*, KJ Ho",
+        "volume": "Journal of Electromagnetic Waves and Applications, Vol. 24, 2463–2477, 2010",
+        "link": ""
+      },{
+        "title": "A Revised-TW Method for Diminution the TW3 Procedure Based on Data Mining and Fuzzy Logic",
+        "author": "8. CW Hsieh*, TC Liu, TL Jong, CM Tiu",
+        "volume": "Biomed Imaging Interv J, 6(2):e19-45, 2010",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "A Revised-TW Method for Diminution the TW3 Procedure Based on Data Mining and Fuzzy Logic",
+        "author": "CW Hsieh*, TC Liu, TL Jong, CM Tiu",
+        "volume": "AOCR 2010, Seoul, Korea",
+        "link": ""
+      },{
+        "title": "Stochastic Resonance Effects of Human Visual Perception",
+        "author": "CW Hsieh*, TC Lin, CY Chen, and TL Jong",
+        "volume": "ICS2010, Taiwan",
+        "link": ""
+      },{
+        "title": "Color Deficiency Using Graylevel Matching Resonant Concept",
+        "author": "CW Hsieh*, CY Chen and TL Jong",
+        "volume": "CCCM2010, China",
+        "link": ""
+      },{
+        "title": "Signal Recovering for UHF RFID by Matching Algorithm",
+        "author": "YF Su, CW Hsieh* and TL Jong",
+        "volume": "CCTAE2010, China",
+        "link": ""
+      },{
+        "title": "Ultrasound Image Enhancement Based on the Combination of Fuzzy Set and Radon Transform",
+        "author": "11. CY Chen, TC Liu, TL Jong and CW Hsieh*",
+        "volume": "ICACTE2010, China",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2011,
+    "publications": [
+      {
+        "title": "Interrelationship of Carpal Angle and Bone Age in Children with Different Generations: A Retrospective Study",
+        "author": "CW Hsieh, TC Liu, CM Tiu*, CY Chen, TL Jong",
+        "volume": "Journal of Pediatric Endocrinology and Metabolism, DOI: 10.1515/JPEM.2011.321, 2011",
+        "link": ""
+      },{
+        "title": "A Fast and Fully Automatic Phalanx Segmentation Using A Grayscale-Histogram Morphology Algorithm",
+        "author": "CW Hsieh, TC Liu, TL Jong*, CY Chen, CM Tiu, DY Chan",
+        "volume": "Opt. Eng. 50, 087007 (Aug 17, 2011); DOI: 10.1117/1.3613940, 2011",
+        "link": ""
+      },{
+        "title": "Design of Monostable-Bistable Transition Logic Element Using the BiCMOS-Based Negative Differential Resistance Circuit",
+        "author": "KJ Gan*, CS Tsai, CW Hsieh, YK Li, WK Yeh",
+        "volume": "Analog Integrated Circuits and Signal Processing, Vol. 68, No. 3, pp. 379-385, September, 2011",
+        "link": ""
+      },{
+        "title": "Evaluation of placental maturity by the sonographic textures",
+        "author": "CY Chen, HW Su, SH Pai, CW Hsieh, TL Jong, CS Hsu, SY Chou",
+        "volume": "284 (1): 13-18, 2011, Arch Gynecol Obstet",
+        "link": ""
+      },{
+        "title": "Simplified radius, ulna, and short bone-age assessment procedure using grouped-Tanner-Whitehouse method",
+        "author": "CW Hsieh*, TC Liu, WJ Wang, TL Jong, CM Tiu",
+        "volume": "Pediatr Int., 2011, Aug;53(4):567-75",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "A Novel Segmentation Technique of Hand Phalanges on Radiograms Using Shape-based Morphology",
+        "author": "TC Liu, CW Hsieh, CM Tiu*, CY Chen, YH Chou, JD Chen, TL Jong, YC Huang",
+        "volume": "RSNA2011, Nov. 27- Dec. 2, 2011, Chicago, USA",
+        "link": ""
+      },{
+        "title": "Compared with Carpal Angle of Taiwanese Children between Agricultural (1960's) and Contemporary (after 2000's) Generation",
+        "author": "TC Liu, CM Tiu*, CW Hsieh, CY Chen, TL Jong",
+        "volume": "KCR2011, Oct. 27-29, 2011, Seoul, Korea",
+        "link": ""
+      },{
+        "title": "A Dipole Antenna with Broadband Balun for WLAN/WiMAX/LTE",
+        "author": "CW Hsieh*, SC Lin, TL Jong, and KJ Ho",
+        "volume": "IFMIA2011, Japan",
+        "link": ""
+      },{
+        "title": "Phalanx assessment based on fuzzy adaptive two-means algorithm",
+        "author": "CW Hsieh*, CY Chen, and TL Jong",
+        "volume": "IFMIA2011, Japan",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2012,
+    "publications": [],
+    "conferences":[
+      {
+        "title": "Balanced Bandpass Filters Based on λ/4 Stepped-impedance Resonators with Wide DM Stopband Extension and Good CM Suppression",
+        "author": "SC Lin, KY Lin, CY Yeh, CW Hsieh, and TL Jong",
+        "volume": "PIERS 2012, Kuala Lumpur, Malaysia",
+        "link": ""
+      },{
+        "title": "Coupled-line Bandpass Filters Using Mixed Half-wave and Quarter-wave Resonators with Improved Out-of-band Response",
+        "author": "SC Lin, and CW Hsieh",
+        "volume": "PIERS 2012, Kuala Lumpur, Malaysia",
+        "link": ""
+      }
+    ],
+    "patents": [
+      {
+        "title": "語音學習方法與系統",
+        "category": "發明",
+        "nationality": "Taiwan",
+        "number": "I363318",
+        "owners": "",
+        "date": "2013/03 - 2022/02",
+        "link": ""
+      }
+    ]
+  },{
+    "year": 2013,
+    "publications": [
+      {
+        "title": "Long-term secular trend of skeletal maturation of Taiwanese children between agricultural (1960s) and contemporary (after 2000s) generations using the Tanner-Whitehouse 3 (TW3) method",
+        "author": "CW Hsieh*, TC Liu, TL Jong, CM Tiu",
+        "volume": "Journal of pediatric endocrinology and metabolism. 26:231-237",
+        "link": ""
+      },{
+        "title": "Multiple interpretations by using pixel resonance concept",
+        "author": "CW Hsieh, CY Chen*, CM Tiu, TL Jong, TC Liu",
+        "volume": "IET Image Processing. 7:401-406",
+        "link": ""
+      },{
+        "title": "An Automatic Image Segmentation Scheme for Phalanx and Epiphyseal/Metaphyseal Region of Interests",
+        "author": "Chen CY, Hsieh CW, Liu TC, Chien HC",
+        "volume": "IEEE International Instrumentation and Measurement Technology Conference (I2MTC), Minneapolis, MN, USA, 2013",
+        "link": ""
+      }
+    ],
+    "conferences":[],
+    "patents":[]
+  },{
+    "year": 2014,
+    "publications": [],
+    "conferences":[
+      {
+        "title": "The Study of Relationship between Histopathological Characteristics of Young and Very Young Taiwanese Women",
+        "author": "Liu HC, Chou YH, Tiu CM, Hsieh CW",
+        "volume": "4th International Breast Cancer Prevention Symposium, West Lafayette, IN, USA, 2014",
+        "link": ""
+      },{
+        "title": "Bone Age Pre-estimation Using Partial Least Squares Regression Analysis with a Priori Knowledge",
+        "author": "Liu HC, Chou YH, Tiu CM, Hsieh CW, Lin CF, Chen CY, Hwang CH, Jong TL",
+        "volume": "IEEE International Symposium on Medical Measurement and Applications (MeMeA), Portugal, 2014",
+        "link": ""
+      },{
+        "title": "A Study of Bone Age Evaluation Based on Knuckles Radiologram",
+        "author": "Chen CY, Hwang CH, Hsieh CW, Jong TL, Liu HC, Tiu CM, Chou YH",
+        "volume": "IEEE International Instrumentation and Measurement Technology Conference (I2MTC), Montevideo, Uruguay, 2014",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2015,
+    "publications": [
+      {
+        "title": "An investigation of pixel resonance phenomenon in color imaging: the multiple interpretations of people with color vision deficiency.",
+        "author": "CW Hsieh, HC Liu, CY Chen, YH Chou, CM Tiu, YC Hsu, DY Chan",
+        "volume": "Multimedia Tools and Applications. DOI: 10.1007/s11042-013-1818-9, (2015) 74:4487–4505",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "Quantitative Acoustic Radiation Force Impulse (ARFI) Imaging in Breast Cancer Using Gray-level Co-occurrence Matrix",
+        "author": "Liu HC, Hsieh CW, Chou YH, Tiu CM, Chen CY",
+        "volume": "Korean Society of Ultrasound in Medicine (KSUM), Seoul, Korea, 2015",
+        "link": ""
+      },{
+        "title": "Assessing the combined performance of fractal dimension and entropy parameters in distinguishing breast tumors in acoustic radiation force impulse (ARFI) imaging",
+        "author": "Liu HC, Chou YH, Tiu CM, Hsieh CW",
+        "volume": "SPIE Medical Imaging, Orlando, Florida, United States, 2015",
+        "link": ""
+      },{
+        "title": "Design and implementation of planar rectenna for ISM-band application",
+        "author": "Lin SC, Hsieh CW, Chang CH, and Jong TL",
+        "volume": "45th European Microwave Conf. Proc., Paris, France, Sept. 6-11, 2015",
+        "link": ""
+      },{
+        "title": "A courseware about microwave antenna pattern",
+        "author": "Hsieh CW*, Lin SC, Tzeng YT, Hsu LC, and Cheng CY",
+        "volume": "IEEE 4th Asia-Pacific Conference on Antennas and Propagation, Bali Island, Indonesia, 2015/07",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2016,
+    "publications": [
+      {
+        "title": "A hierarchical algorithm for phalangeal and epiphyseal/metaphyseal segmentation",
+        "author": "CW Hsieh, HC Liu, TL Jong, CY Chen",
+        "volume": "Multimedia Tools and Applications. DOI: 10.1007/s11042-016-3278-5",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "Differentiating Malignant from Benign Breast Tumors on Acoustic Radiation Force Impulse Imaging Using Fuzzy-based Neural Networks with Principle Component Analysis",
+        "author": "Liu HC, Chou YH, Tiu CM, Hsieh CW, Brent, Shung KK",
+        "volume": "Radiological Society of North America (RSNA), Chicago, IL, USA, 2016",
+        "link": ""
+      },{
+        "title": "A video-based monitor for assessing free-fall droplet motion",
+        "author": "Chih-Yen Chen*, Chun-Jen Weng, Chi-Hung Hwang, Chi-Wen Hsieh",
+        "volume": "2016 10th International Conference on Sensing Technol (ICST), Nanjing, China",
+        "link": ""
+      },{
+        "title": "Tracking and modeling raindrops in video sequences for assessing precipitation",
+        "author": "Chih-Yen Chen*, Chun-Jen Weng, Chi-Hung Hwang, Chi-Wen Hsieh, Shuen-Jong Tsung",
+        "volume": "2016 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications, Budapest, Hungary",
+        "link": ""
+      },{
+        "title": "A low cost fiber optic Sagnac interferometric perimeter intrusion detection system",
+        "author": "P.-T. Huang*, G.-Z. Chen, T.-L. Jong*, C.-W. Hsieh and Likarn Wang",
+        "volume": "International Congress on Engineering and Information, Osaka, Japan, May 10~12, 2016",
+        "link": ""
+      },{
+        "title": "A Perimeter Intrusion Detection System Based on Optical Fiber Sagnac Interferometric Detection and Classification A Preliminary Study",
+        "author": "P.-T. Huang*, G.-Z. Chen, T.-L. Jong*, C.-W. Hsieh and Likarn Wang",
+        "volume": "Seoul International Conference on Applied Science and Engineering, Seoul, Korea, July 05~07, 2016",
+        "link": ""
+      }
+    ],
+    "patents": [
+      {
+        "title": "雨滴偵測系統及其方法",
+        "category": "發明",
+        "nationality": "Taiwan",
+        "number": "I554979",
+        "owners": "陳志彥謝奇文等人",
+        "date": "2016/10 -",
+        "link": ""
+      }
+    ]
+  },{
+    "year": 2017,
+    "publications": [
+      {
+        "title": "An adaptive level set method for improving image segmentation",
+        "author": "CW Hsieh, CY Chen",
+        "volume": "Multimedia Tools and Applications. DOI: 10.1007/s11042-017-5434-y",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "Automatic inspection apparatus based on high-speed image analysis: a new characterization technique for particle flow analysis",
+        "author": "Chun-Fu Lin, Chun-Jen Weng, Chi-Hung Hwang, Chih-Yen Chen*, Chi-Wen Hsieh",
+        "volume": "ICDIP 2017, HongKong",
+        "link": ""
+      },{
+        "title": "A vision-based droplet characterization technique for particle flow analysis",
+        "author": "Jun-Yu Tang, Chi-Wen Hsieh, Chih-Yen Chen*, Chun-Jen Weng, ChunFu Lin, Der-Chen Huang",
+        "volume": "2017 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), Italy",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  },{
+    "year": 2018,
+    "publications": [
+      {
+        "title": "Bandpass impedance transformers with extremely high transforming ratios using Π-tapped feeds",
+        "author": "CW Hsieh, Shih-Cheng Lin, Jia-Ying Li",
+        "volume": "IEEE Access.  DOI: 10.1109/ACCESS.2018.2837355",
+        "link": ""
+      },{
+        "title": "High-Speed image velocimetry system for rainfall measurement",
+        "author": "CY Chen, CW Hsieh*, PW Chi, HF Lin, CJ Weng, CH Hwang",
+        "volume": "IEEE Access. DOI: 10.1109/ACCESS.2018.282652",
+        "link": ""
+      }
+    ],
+    "conferences":[
+      {
+        "title": "Noises Depression Base d on Statistic Analysis Algorithm for Kerma Area Product Meter Design",
+        "author": "Hsieh CW*, Chen CY",
+        "volume": "International Instrumentation and Measurement Technology Conference (I2MTC), Huston, Texas, USA, 2018",
+        "link": ""
+      }
+    ],
+    "patents":[]
+  }
+]

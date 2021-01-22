@@ -1,0 +1,41 @@
+
+<% if (state === "master") { %>
+  <h4>Master Students</h4>
+  <hr/>
+  <% _.each(members, function (mbr) { %>
+    <div class="row m-2">
+      <div class="col-md-4">
+        <img src="<%= mbr.photo %>" alt="avatar" class="img-thumbnail">
+      </div>
+      <div class="col-md">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item"><strong>Name: </strong><%= mbr.name %></li>
+          <li class="list-group-item"><strong>Expertise: </strong>
+            <% _.each( mbr.expertise, function (xpts) { %>
+              "<%= xpts %>"&nbsp;
+            <% }); %>
+          </li>
+          <% _.each(mbr.link, function (val, key) { %>
+            <li class="list-group-item"><strong><%= key %>: </strong>
+              <a href="<%= val %>"><%= val %></a>
+            </li>
+          <% }); %>
+        </ul>
+      </div>
+    </div>
+  <% }); %>
+<% } else if (state === "graduated") { %>
+  <h4>Graduated Members</h4>
+  <hr/>
+  <ul class="list-group">
+    <% _.each(members, function(mbr) { %>
+      <li class="list-group-item">
+        <div class="d-flex w-100 justify-content-between">
+          <h5><%= mbr.name %></h5>
+          <small class="text-muted"><%= mbr.date %></small>
+        </div>
+        <p><%= mbr.thesis %></p>
+      </li>
+    <% }); %>
+  </ul>
+<% } %>

@@ -1,0 +1,39 @@
+[
+  {
+    "title": "國家新創獎",
+    "image": "image/awards/innovative.jpg",
+    "description": "2015年得到國家新創獎”臨床新創獎”的肯定。附圖為新創獎獎狀影本",
+    "period": "2015",
+    "type": "master"
+  }, {
+    "title": "Fellowship Award",
+    "image": "",
+    "description": "在(PTCOG)粒子治療會議(是全世界探討粒子治療的最重要會議之一)，口頭發表Initial Performance of 2-D Ionization Chamber Detector For Proton Therapy, CW Hsieh et at all, 51th Annual Meeting of Particle Therapy Co-Operative Group, (PTCOG51), May. 14-19, 2012, Seoul, Korea",
+    "period": "2012",
+    "type": "master"
+  }, {
+    "title": "最佳論文發表獎",
+    "image": "",
+    "description": "參加MCER2017國際研討會的口頭發表，得到最佳論文發表獎。",
+    "period": "2017",
+    "type": "master"
+  }, {
+    "title": "科技部獎勵特殊優秀人才補助",
+    "image": "",
+    "description": "",
+    "period": "2016-2017",
+    "type": "master"
+  }, {
+    "title": "嘉義大學院級優良導師獎",
+    "image": "",
+    "description": "",
+    "period": "2012",
+    "type": "college"
+  }, {
+    "title": "嘉義大學院級教學績優獎",
+    "image": "",
+    "description": "",
+    "period": "2017",
+    "type": "college"
+  }
+]

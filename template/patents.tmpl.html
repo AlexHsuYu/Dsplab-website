@@ -1,0 +1,14 @@
+<div class="list-group mb-3">
+  <% for (i in patents) { %>
+  <a href="#" class="list-group-item list-group-item-action flex-column align-items-start border-warning">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1"><%= patents[i].title %></h5>
+      <small><%= patents[i].date %></small>
+    </div>
+    <p class="mb-1"><%= patents[i].owners %></p>
+    <u><%= patents[i].category %>專利, in <%= patents[i].nationality %></u>
+    <u>Patent Number: <%= patents[i].number %></u>
+  </a>
+  <!-- <li class="list-group-item"></li> -->
+  <% } %>
+</div>

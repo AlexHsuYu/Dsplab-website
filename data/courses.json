@@ -1,0 +1,290 @@
+[
+  {
+    "year": 2012,
+    "classes": [
+      {
+        "name": "Programming Language",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=101134B0021",
+        "time": "ended in 2012 fall",
+        "description": "本課程將教授C與C++的程式語言設計，以建立學生具備初步程式能力",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Signals and Systems",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=101134B0026",
+        "time": "ended in 2012 fall",
+        "description": "藉由數學與Matlab程式來了解，訊號處理與相關系統知識。並以知識作為日後: 控制，訊號處理等相關知識",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=101134B0015",
+        "time": "ended in 2012 fall",
+        "description": "建立學生對於基本電子電路的基本了解",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": 2013,
+    "classes": [
+      {
+        "name": "Principle of Medical Image and Application",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=10122470020",
+        "time": "ended in 2013 spring",
+        "description": "廣泛介紹醫學成像的物理原理與處理方式。含有：x-ray image, CT, PET, SPET, MRI, sonogram等本課程是以基礎原理出發，希望學生能了解醫學成像的基礎物理原理，而知道其影像特徵與處理的基本法則。可以做為從事相關研究的預先知識。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=101234B0001",
+        "time": "ended in 2013 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": 2014,
+    "classes": [
+      {
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102134B0004",
+        "time": "ended in 2014 spring",
+        "description": "本課程將針對基本實驗做實際操作，並要求處理數據相關知識，與報告之撰寫。實驗項目計有:<br/>放大器之低頻響應，放大器之高頻響應，運算放大器的特性，線性運算放大器，運算放大器的頻率響應、OTL 與 OCL 放大器、微分器及積分器電路實驗、低通與高通主動濾波器、Simulation Program with Integrated Circuit Emphasis (SPICE 模擬)-電路模擬、PCB 電路實作等等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Numerical Methods",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102134B0016",
+        "time": "ended in 2014 spring",
+        "description": "本課程主要介紹包括求方程式的根、特徵方程式，插值，曲線擬合，矩陣、常微分方程式、偏微分方程式等基本數值方法。希望學生除了能了解並應用基本數值分析的數學原理，也分撰寫相關程式來掌握運用於電機相關研究。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Programming Language",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102134B0035",
+        "time": "ended in 2014 spring",
+        "description": "本課程將教授C與C++的程式語言設計，以建立學生具備初步程式能力，以利於發展電資相關技能知識",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Image Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102224B0005",
+        "time": "ended in 2014 spring",
+        "description": "本課程介紹數位影像處理基本理論與相關應用。課程以 MATLAB 為工具，講解基礎影像處理原理，探討數位影像處理相關主題，包括空間濾波、灰階處理，頻率域的相關工具、影像復原、特徵擷取與分析、形態學、影像拓撲學、色彩處理、影像壓縮、小波轉換等。",
+        "level": "Undergraduate, Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102234B0001",
+        "time": "ended in 2014 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Signal Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=102234B0016",
+        "time": "ended in 2014 spring",
+        "description": "本課程介紹數位訊號處理的基本理論與相關應用。課程以原理出發並結合程式語言去實現與驗證理論所述。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Signal Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=103124B0009",
+        "time": "ended in 2014 fall",
+        "description": "本課程介紹數位訊號處理的基本理論與相關應用。課程以原理出發並結合程式語言去實現與驗證理論所述。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=103134B0004",
+        "time": "ended in 2014 fall",
+        "description": "本課程將針對基本實驗做實際操作，並要求處理數據相關知識，與報告之撰寫。實驗項目計有:<br/>放大器之低頻響應，放大器之高頻響應，運算放大器的特性，線性運算放大器，運算放大器的頻率響應、OTL 與 OCL 放大器、微分器及積分器電路實驗、低通與高通主動濾波器、Simulation Program with Integrated Circuit Emphasis (SPICE 模擬)-電路模擬、PCB 電路實作等等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Numerical Methods",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=103134B0004",
+        "time": "ended in 2014 fall",
+        "description": "本課程主要介紹包括求方程式的根、特徵方程式，插值，曲線擬合，矩陣、常微分方程式、偏微分方程式等基本數值方法。希望學生除了能了解並應用基本數值分析的數學原理，也分撰寫相關程式來掌握運用於電機相關研究。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": 2015,
+    "classes": [
+      {
+        "name": "Science and Civilization",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=10320150138",
+        "time": "ended in 2015 spring",
+        "description": "培養具有科技與文明發展的基本課程",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Image Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=103224B0005",
+        "time": "ended in 2015 spring",
+        "description": "本課程介紹數位影像處理基本理論與相關應用。課程以 MATLAB 為工具，講解基礎影像處理原理，探討數位影像處理相關主題，包括空間濾波、灰階處理，頻率域的相關工具、影像復原、特徵擷取與分析、形態學、影像拓撲學、色彩處理、影像壓縮、小波轉換等。",
+        "level": "Master, Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=103234B0001",
+        "time": "ended in 2015 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Signal Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104124B0009",
+        "time": "ended in 2015 spring",
+        "description": "本課程介紹數位訊號處理的基本理論與相關應用。課程以原理出發並結合程式語言去實現與驗證理論所述。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Digital Signal Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104124B0009",
+        "time": "ended in 2015 fall",
+        "description": "本課程介紹數位訊號處理的基本理論與相關應用。課程以原理出發並結合程式語言去實現與驗證理論所述。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104134B0004",
+        "time": "ended in 2015 fall",
+        "description": "本課程將針對基本實驗做實際操作，並要求處理數據相關知識，與報告之撰寫。實驗項目計有:<br/>放大器之低頻響應，放大器之高頻響應，運算放大器的特性，線性運算放大器，運算放大器的頻率響應、OTL 與 OCL 放大器、微分器及積分器電路實驗、低通與高通主動濾波器、Simulation Program with Integrated Circuit Emphasis (SPICE 模擬)-電路模擬、PCB 電路實作等等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Numerical Methods",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104134B0016",
+        "time": "ended in 2015 fall",
+        "description": "本課程主要介紹包括求方程式的根、特徵方程式，插值，曲線擬合，矩陣、常微分方程式、偏微分方程式等基本數值方法。希望學生除了能了解並應用基本數值分析的數學原理，也分撰寫相關程式來掌握運用於電機相關研究。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": 2016,
+    "classes": [
+      {
+        "name": "Science and Life",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=10420150077",
+        "time": "ended in 2016 spring",
+        "description": "培養具有科技與生活應用的基本課程",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Image Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104224B0005",
+        "time": "ended in 2016 spring",
+        "description": "本課程介紹數位影像處理基本理論與相關應用。課程以 MATLAB 為工具，講解基礎影像處理原理，探討數位影像處理相關主題，包括空間濾波、灰階處理，頻率域的相關工具、影像復原、特徵擷取與分析、形態學、影像拓撲學、色彩處理、影像壓縮、小波轉換等。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=104234B0001",
+        "time": "ended in 2016 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=105134B0004",
+        "time": "ended in 2016 fall",
+        "description": "本課程將針對基本實驗做實際操作，並要求處理數據相關知識，與報告之撰寫。實驗項目計有:<br/>放大器之低頻響應，放大器之高頻響應，運算放大器的特性，線性運算放大器，運算放大器的頻率響應、OTL 與 OCL 放大器、微分器及積分器電路實驗、低通與高通主動濾波器、Simulation Program with Integrated Circuit Emphasis (SPICE 模擬)-電路模擬、PCB 電路實作等等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Numerical Methods",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=105134B0016",
+        "time": "ended in 2016 fall",
+        "description": "本課程主要介紹包括求方程式的根、特徵方程式，插值，曲線擬合，矩陣、常微分方程式、偏微分方程式等基本數值方法。希望學生除了能了解並應用基本數值分析的數學原理，也分撰寫相關程式來掌握運用於電機相關研究。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Pattern Recognition",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=105134B0050",
+        "time": "ended in 2016 fall",
+        "description": "本課程目標主要是探討利用機器做為分類資料的理論，方法與實踐。一般而言，利用電腦做為分析語音、影像、視訊等多媒體的技術，已成為目前科技的一種重要分支。希望學生能夠習知這類的基礎知識，做為其研究或就業的基礎知識。<br/>本課程先簡介以統計上的分類知識開始，再引進貝氏分類與決策。首先以貝式決策理論開始討論，並介紹群聚與分類的概念。也介紹分類器的種類，特徵抽取，特徵分析，類神經網路、模糊分類，基因演算法等分類器的概念與應用。並引進數個實際應用範例。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": 2017,
+    "classes": [
+      {
+        "name": "Science and Life",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=10520150115",
+        "time": "ended in 2017 spring",
+        "description": "培養具有科技與生活應用的基本課程",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=105234B0001",
+        "time": "ended in 2017 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Image Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=105234B0052",
+        "time": "ended in 2017 spring",
+        "description": "本課程介紹數位影像處理基本理論與相關應用。課程以 MATLAB 為工具，講解基礎影像處理原理，探討數位影像處理相關主題，包括空間濾波、灰階處理，頻率域的相關工具、影像復原、特徵擷取與分析、形態學、影像拓撲學、色彩處理、影像壓縮、小波轉換等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Pattern Recognition",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=106124B0017",
+        "time": "ended in 2017 fall",
+        "description": "本課程目標主要是探討利用機器做為分類資料的理論，方法與實踐。一般而言，利用電腦做為分析語音、影像、視訊等多媒體的技術，已成為目前科技的一種重要分支。希望學生能夠習知這類的基礎知識，做為其研究或就業的基礎知識。<br/>本課程先簡介以統計上的分類知識開始，再引進貝氏分類與決策。首先以貝式決策理論開始討論，並介紹群聚與分類的概念。也介紹分類器的種類，特徵抽取，特徵分析，類神經網路、模糊分類，基因演算法等分類器的概念與應用。並引進數個實際應用範例。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (II)",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=106134B0004",
+        "time": "ended in 2017 fall",
+        "description": "本課程將針對基本實驗做實際操作，並要求處理數據相關知識，與報告之撰寫。實驗項目計有:<br/>放大器之低頻響應，放大器之高頻響應，運算放大器的特性，線性運算放大器，運算放大器的頻率響應、OTL 與 OCL 放大器、微分器及積分器電路實驗、低通與高通主動濾波器、Simulation Program with Integrated Circuit Emphasis (SPICE 模擬)-電路模擬、PCB 電路實作等等。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Numerical Methods",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=106134B0016",
+        "time": "ended in 2017 fall",
+        "description": "本課程主要介紹包括求方程式的根、特徵方程式，插值，曲線擬合，矩陣、常微分方程式、偏微分方程式等基本數值方法。希望學生除了能了解並應用基本數值分析的數學原理，也分撰寫相關程式來掌握運用於電機相關研究。",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      }
+    ]
+  },{
+    "year": "current",
+    "classes": [
+      {
+        "name": "Engineering and Life",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=10620150185",
+        "time": "started in 2018 spring",
+        "description": "培養具有科技與生活應用的基本課程",
+        "level": "Undergraduate",
+        "tags": ["school"]
+      },{
+        "name": "Digital Image Processing",
+        "link": "https://web085004.adm.ncyu.edu.tw/Syllabus/Syllabus_Rpt.aspx?CrsCode=106224B0020",
+        "time": "started in 2018 spring",
+        "description": "本課程介紹數位影像處理基本理論與相關應用。課程以 MATLAB 為工具，講解基礎影像處理原理，探討數位影像處理相關主題，包括空間濾波、灰階處理，頻率域的相關工具、影像復原、特徵擷取與分析、形態學、影像拓撲學、色彩處理、影像壓縮、小波轉換等。",
+        "level": "Master",
+        "tags": ["school"]
+      },{
+        "name": "Electronics Laboratory (I)",
+        "link": "http://taiwanlife.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1239",
+        "time": "started in 2018 spring",
+        "description": "培養學生具有基本電路，電子的相關實務基礎，並能和理論課程結合 使用基本儀表，熟悉基本電子電路元件，了解基本電子電路的原理與實務應用",
+        "level": "Undergraduate",
+        "tags": ["school","online"]
+      }
+    ]
+  }
+]

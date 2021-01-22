@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>DSPLab</title>
+    <!-- use bootstrap CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.0/underscore-min.js"></script>
+    <!-- main navbar -->
+    <div id="navbar" class="container-fluid">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-light">
+        <a class="navbar-brand" href="index.html#home">DSPLab</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          <span class="sr-only">(current)</span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#professor">CW Hsieh</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="#courses">Courses</a>
+            </li> -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Courses
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="courses.html#ccurrent">2018</a>
+                <a id="crs2017" class="dropdown-item" href="courses.html#c2017">2017</a>
+                <a id="crs2016" class="dropdown-item" href="courses.html#c2016">2016</a>
+                <a id="crs2015" class="dropdown-item" href="courses.html#c2015">2015</a>
+                <a id="crs2014" class="dropdown-item" href="courses.html#c2014">2014</a>
+                <a id="crs2013" class="dropdown-item" href="courses.html#c2013">2013</a>
+                <a id="crs2012" class="dropdown-item" href="courses.html#c2012">2012</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Researches
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="index.html#roi">Research of Interests</a>
+                <a class="dropdown-item" href="index.html#projects">Projects</a>
+              </div>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="#publications">Publications</a>
+            </li> -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Publications
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="publications.html#journal">Journal Papers</a>
+                <a class="dropdown-item" href="publications.html#conference">Conferences</a>
+                <a class="dropdown-item" href="publications.html#patent">Patents</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#members">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#awards">Awards</a>
+            </li>
+          </ul>
+          <!-- aligned right -->
+          <!-- <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#members">login</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#members">register</a>
+            </li>
+          </ul> -->
+        </div>
+      </nav>
+    </div>
+
+    <div class="container mt-5 mb-5 pt-5">
+      <!-- teacher's main bio page -->
+      <div id="professor" class="row">
+        <div class="col-md-4">
+          <img src="image/people/chiwen.jpg" alt="photo of professor" class="img-thumbnail">
+          <h5>Hsieh, Chi-Wen</h5>
+          <p class="text-muted">Professor of NCYU Electrical Engineering</p>
+          <button id="toggle-btn" type="button" class="btn btn-link pl-0" onclick="toggleLang()">English Biography</button>
+        </div>
+        <div class="col-md">
+          <div class="card mb-3">
+            <div class="card-header">
+              Biography
+            </div>
+            <div id="twn-bio" class="card-body">
+              <p>
+                <strong>研究:</strong> 主要聚焦於訊號處理方面，牽涉硬體訊號與軟體訊號處理。目前主力是配合質子治療大聯盟的相關輻射劑量感測與劑量品保研究。自感測器端以後，從訊號擷取，二維或三維成像到環境校正因子等與後端的UI均有涉獵。也將此技術與原子能委員會之核能研究所合作，將其游離輻射感測器，數位化，無線化與劑量轉換不可缺的環境因子感測整合。此外，與國家實驗研究院儀科中心陳志彥博士合作，將訊號處理技術應用在災害防治上之雨量監測。目前已經開發出性能匹配氣象專業級的Parsivel雨滴譜儀，甚有成效。此部分的研究成果在大氣物理上有一些先進看法，與傳統想法有部分不同，有學術價值。在校內合作方面，持續與本系林士程教授合作，把數值技巧融入天線設計與微波濾波器，研發了世界上轉換阻抗範圍極為寬廣的微帶線帶通轉換器。此外，也利用人工智慧結合實際的CNC精密機械加工，製作天線陣列與標準號角天線等高附加價值的應用。
+                <br/>
+                <strong>教學:</strong> 主要授課涵蓋，電子電路實驗、數值方法、數位影像處理、醫學影像處理、數位訊號處理、圖訊辨認、程式語言、電磁學，也支援校內通識課程。為因應教學需求，也開設磨課師（MOOCs）課程與YouTube的教學課程和網路通識。此外，也投入學校的”雲嘉南”，”特色大學試辦計畫”，”智慧製造計畫”，與系上的” 資通訊軟體創新人才推升推廣計畫”，”電磁聯盟的題庫計畫”等等。在教學上投入大量心力，已有部分成效。
+                <br/>
+                <strong>服務:</strong> 除配合系上與研究所評鑑作業，擔任導師與系學會指導老師，投入產學媒合與帶隊參訪等服務，積極參與各級委員會，配合系上的計畫申請等等。校外服務持續進行，包含台灣電力公司針對中小學老師的電力課程，核能研究所的技轉服務等等。
+              </p>
+            </div>
+            <div id="eng-bio" class="card-body">
+              <p>
+                <strong>Chi-Wen Hsieh</strong> received the B.Sc. in Department of Physics from Fu-Jen Catholic University, Taiwan, ROC in 1990. And he received Master and Ph.D. degrees in Department of Electrical Engineering from the National Tsing-Hua University, Taiwan, ROC in 1993 and 2007. Now he is chair and professor for the Department of Electrical Engineering at National Chiayi University, Taiwan, ROC since 2018. His research interests include medical signal processing, microwave applications, and image processing.
+              </p>
+            </div>
+          </div>
+          <script type="text/javascript">
+            $('#eng-bio').hide()
+            function toggleLang() {
+              console.log(document.getElementById("toggle-btn").innerText)
+              txt = document.getElementById("toggle-btn").innerText
+              if ( txt.indexOf('English') !== -1 ) {
+                $('#twn-bio').hide()
+                $('#eng-bio').show()
+                txt = 'Chinese Biography'
+              } else {
+                $('#eng-bio').hide()
+                $('#twn-bio').show()
+                txt = 'English Biography'
+              }
+              document.getElementById("toggle-btn").innerText = txt
+            }
+          </script>
+          <ul class="list-group">
+            <li class="list-group-item">
+              email: <span class="text-primary">chiwen@mail.ncyu.edu.tw</span>
+            </li>
+            <li class="list-group-item">
+              Research Gate: <a href="https://www.researchgate.net/profile/Chi-Wen_Hsieh">My Profile</a>
+            </li>
+            <li class="list-group-item">
+              telephone: <span class="text-primary">+886 5 2717980</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- home -->
+      <div id="home">
+        <div class="jumbotron">
+          <h1 class="display-4">NCYU DSPLab</h1>
+          <p class="lead">We support fabulous solutions for Science and Engineering</p>
+          <hr class="my-4">
+          <p>wanna know more? checkout our <a href="publications.html#journal">publications</a>, or see our projects by clicking the button bellow</p>
+          <a class="btn btn-outline-primary btn-lg" href="#projects" role="button">Learn more</a>
+        </div>
+        <div class="card-deck mb-5">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Courses</h5>
+              <p class="card-text">Courses taught on campus and some online open courses including <a href="http://taiwanlife.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=1239" target="_blank">MOOCs</a>,
+                and videos uploaded at <a href="https://www.youtube.com/channel/UCcNrjE2_7yyQiTg5Ehn3LGA/videos" target="_blank">YouTube</a>.</p>
+            </div>
+            <div class="card-footer bg-white border-top-0">
+              <a href="courses.html#ccurrent" class="card-link">check them out</a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Projects</h5>
+              <p class="card-text">Our lab has a great variety of interests. Take a look at our active projects.</p>
+            </div>
+            <div class="card-footer bg-white border-top-0">
+              <a href="#projects" class="card-link">show me</a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Publications & Patents</h5>
+              <p class="card-text">We have papers and patents about Raindrop Tracking, Radiation Measurement, Medical Imaging, etc.</p>
+            </div>
+            <div class="card-footer bg-white border-top-0">
+              <a href="publications.html#journal" class="card-link">take me there</a>
+            </div>
+          </div>
+        </div>
+        <ul class="h4 list-group list-group-flush">
+            <li class="list-group-item">
+              <a href="http://www.ncyu.edu.tw/ee/">
+                <!-- <img class="card-image-top" src="image/ncyu.png" alt="NCYU logo"> -->
+                NCYU Electrical Engineering
+              </a>
+            </li>
+            <li class="list-group-item">
+              <a href="https://www.youtube.com/channel/UCcNrjE2_7yyQiTg5Ehn3LGA">
+                <!-- <img class="card-image-top" src="image/youtube1.png" alt="youtube logo"> -->
+                YouTube Channel for teaching
+              </a>
+            </li>
+          </ul>
+      </div>
+      <!-- course gallery -->
+      <div id="courses"></div>
+      <!-- research of interests -->
+      <div id="roi">
+        <!-- insert here -->
+        <h4>雨滴譜儀原型機製作</h4>
+        <p>
+          目前與國研院儀科中心陳志彥博士合作，開發符合目前氣象局高階雨量偵測儀器。目前是與市占率最高的Parsevel-2為基準，在準度上要和其並駕齊驅，在性能上要超過，價格則要求在(1/2)以內。目前整合自製光學系統整合高速攝影機配合自製觸發電路，搭配自己研發的具有人工智慧追蹤雨滴的演算法和後端UI，已經可以符合需求。加上專利佈局，已有廠商對此技術感興趣。目前有一個TW專利和期刊論文3篇發表。
+        </p>
+        <h4>具有超高轉換比率的帶通阻抗轉換器</h4>
+        <ul class="list-group">
+          <li class="list-group-item border-0">1. 目前轉換比例達到104倍，是世界上此類轉換器的第一名。(2018/05)</li>
+          <li class="list-group-item border-0">2. 與本系的林士程教授和共同指導的李家瀅同學合作產出。</li>
+        </ul>
+        <h4>Detector Implementation for Proton therapy</h4>
+        <ul class="list-group">
+          <li class="list-group-item border-0">1. 參與中央大學物理系陳鎰鋒老師所主導的”質子治療探測器研製”經濟部三年期計畫。部分成果技轉。</li>
+          <li class="list-group-item border-0">2. 參與研製之多層游離室具有高經濟價值的醫學應用。</li>
+        </ul>
+        <h4>Dose Area Product (DAP) Meter</h4>
+        <ul class="list-group">
+          <li class="list-group-item border-0">1. 開發可以量測1pA的微小電流技術，並以此技術用於面積劑量乘積儀的開發。</li>
+          <li class="list-group-item border-0">2. 成品可以量測從100nA到1pA,誤差小於2%，結合環境感測，可以作為絕對劑量量測。</li>
+        </ul>
+        <h4>Closed eyes motion by wireless sensing</h4>
+        <ul class="list-group">
+          <li class="list-group-item border-0">1. 提出可攜型無線傳輸眼罩作為閉眼狀態監測的概念，並獲得US的(發明)專利。</li>
+          <li class="list-group-item border-0">2. 實作可攜型無線眼罩作為睡眠監測的研究，並實作雛型。</li>
+          <li class="list-group-item border-0">3. 眼球運動的睫狀肌生理訊號與影像分析之關聯研究。</li>
+        </ul>
+        <h4>光學式自動電腦閱卷系統</h4>
+        <ul class="list-group">
+          <li class="list-group-item border-0">1. 結合雲端技術的自動閱卷系統，可以完全取代目前的劃卡考試</li>
+          <li class="list-group-item border-0">2. 於2014 年底已經技轉台北家教班並商品化。</li>
+        </ul>
+      </div>
+
+      <!-- projects -->
+      <div id="projects" class="card-columns"></div>
+      <!-- publications -->
+      <div id="publications"></div>
+      <div id="members"></div>
+      <div id="awards" class="card-columns"></div>
+      <!-- end of container -->
+    </div>
+
+    <!-- use bootstrap CDN -->
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="js/app.js" type="text/javascript"></script>
+  </body>
+</html>

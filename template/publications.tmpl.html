@@ -1,0 +1,15 @@
+<h4><%= year %></h4>
+<hr/>
+<div class="list-group mb-3">
+  <% for (i in publications) { %>
+  <a href="publications[i].link" class="list-group-item list-group-item-action flex-column align-items-start">
+    <!-- <div class="d-flex w-100 justify-content-between"> -->
+      <h5 class="mb-1"><%= publications[i].title %></h5>
+      <!-- <small>3 days ago</small> -->
+    <!-- </div> -->
+    <p class="mb-1"><%= publications[i].author %></p>
+    <small><em><%= publications[i].volume %></em></small>
+  </a>
+  <!-- <li class="list-group-item"></li> -->
+  <% } %>
+</div>

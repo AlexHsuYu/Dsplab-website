@@ -1,0 +1,47 @@
+{
+  "left": [
+    {
+      "name": "CW Hsieh",
+      "list": [
+        { "item": "", "link": "index.html#professor" }
+      ]
+    },{
+      "name": "Courses",
+      "list": [
+        { "item": "2018", "link": "courses.html#ccurrent" },
+        { "item": "2017", "link": "courses.html#c2017" },
+        { "item": "2016", "link": "courses.html#c2016" },
+        { "item": "2015", "link": "courses.html#c2015" },
+        { "item": "2014", "link": "courses.html#c2014" },
+        { "item": "2013", "link": "courses.html#c2013" },
+        { "item": "2012", "link": "courses.html#c2012" }
+      ]
+    },{
+      "name": "Researches",
+      "list": [
+        { "item": "Research of Interests", "link": "index.html#roi" },
+        { "item": "Projects", "link": "index.html#projects" }
+      ]
+    },{
+      "name": "Publications",
+      "list": [
+        { "item": "Journal Papers", "link": "publications.html#journal" },
+        { "item": "Conferences", "link": "publications.html#conference" },
+        { "item": "Patents", "link": "publications.html#patent" }
+      ]
+    },{
+      "name": "Members",
+      "list": [
+        { "item": "", "link": "index.html#members" }
+      ]
+    }
+  ],
+  "right": [
+    {
+      "name": "Login",
+      "list": [
+        { "item": "", "link": "" }
+      ]
+    }
+  ]
+}
