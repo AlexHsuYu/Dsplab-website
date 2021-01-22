@@ -1,6 +1,4 @@
 # DSPlab Static Website
-this is a basic website without database
-(because the school does not allow it...)
 
 ## Usage
 ```bash
