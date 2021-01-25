@@ -1,16 +1,14 @@
 # DSPlab Static Website
-this is a basic website without database
-(because the school does not allow it...)
+this is a website without database
 
-## Usage
-```bash
-docker run -itd --rm --name dsplab-web -p 8080:80  -v "$PWD":/usr/local/apache2/htdocs/ httpd:2.4
-```
 
-## Dockerfile
-```bulid&run
-docker build -t my-apache2 . --no-cache
+## Install and RUN
 
-docker run -dit --name my-running-app -p 8080:80 my-apache2
-```
+1. Install [Docker](https://docs.docker.com/installation/) or [Docker Toolbox](https://www.docker.com/products/docker-toolbox) and fire it up.
+
+2. ```git clone git@github.com:AlexHsuYu/Dsplab-website.git```
+
+3. ```cd Dsplab-website```
+
+4. ```docker run -itd --rm --name dsplab-web -p 8080:80  -v "$PWD":/usr/local/apache2/htdocs/ httpd:2.4```
 
